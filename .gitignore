@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS metadata and local notebook exports
+.DS_Store
+/app.html
+
+# Ignore CSV data and outputs, except the raw bridge input
+*.csv
+!bridge_raw_data.csv

@@ -1,0 +1,6 @@
+{
+  "data.fetch_yfinance_ohlcv_df": "82cc0a54f3ea56522c9308485c383e00c262ada82a874862b3355886e610f201",
+  "data.rolling_zscore": "2ea5508474cb562efbecc6a95e6087f6c6152c21840f4a69b581f41a179af87e",
+  "evaluation.calculate_metrics": "471de83b4b777a0f3951d6cdcc7734b4dc91c2e95fdf97a105f9d71389e0d6af",
+  "forecasting.test_volume": "db345f37a19ad32ff65ccc63031a860136e202991b8887fe85c7b5d1b9c1d0c1"
+}
